@@ -1,43 +1,43 @@
-title                       заголовок объявления
-href                        ссылка на оригинал
-cat                         код категории
-orig_id                     идентификатор на доноре
-number                      номер дома
-phone                       телефон
-city                        город
-livingSpace                 площадь жилая
-kitchenSpace                площадь кухни
-totalSpace                  площадь общая
-floor                       этаж
-totalFloors                 этажность
-rooms                       количество комнат
-document                    документ
-form                        форма рельефа участка
-communication               коммуникации
-condition                   состояние
-object_type                 тип объекта
-landSpace                   полщадь участка
-heating                     отопление
-bathroom_type               тип санузла
-commercial_type             тип коммерческой
-garage_type                 тип гаража
-cad_passport                кадастровый паспорт
-dacha_type                  тип дачи
-apartment_sale_object_type  тип квартиры
-dacha_object_type           тип строения дачи
-land_object_type            тип земельного участка
-purpose                     назначение
-distance_to_city            расстояние до города
-coop_name                   название кооператива
-description                 описание
-price                       цена с донора
-name                        имя контакта
-date_grabbed                дата входа в систему
-source                      источник
-priceInt                    актуальная цена
-currency                    валюта
-images                      изображения
-sub_district                микрорайон
-district                    район
-street                      улица
-cat_name                    имя категории
+title                       Р·Р°РіРѕР»РѕРІРѕРє РѕР±СЉСЏРІР»РµРЅРёСЏ
+href                        СЃСЃС‹Р»РєР° РЅР° РѕСЂРёРіРёРЅР°Р»
+cat                         РєРѕРґ РєР°С‚РµРіРѕСЂРёРё
+orig_id                     РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РЅР° РґРѕРЅРѕСЂРµ
+number                      РЅРѕРјРµСЂ РґРѕРјР°
+phone                       С‚РµР»РµС„РѕРЅ
+city                        РіРѕСЂРѕРґ
+livingSpace                 РїР»РѕС‰Р°РґСЊ Р¶РёР»Р°СЏ
+kitchenSpace                РїР»РѕС‰Р°РґСЊ РєСѓС…РЅРё
+totalSpace                  РїР»РѕС‰Р°РґСЊ РѕР±С‰Р°СЏ
+floor                       СЌС‚Р°Р¶
+totalFloors                 СЌС‚Р°Р¶РЅРѕСЃС‚СЊ
+rooms                       РєРѕР»РёС‡РµСЃС‚РІРѕ РєРѕРјРЅР°С‚
+document                    РґРѕРєСѓРјРµРЅС‚
+form                        С„РѕСЂРјР° СЂРµР»СЊРµС„Р° СѓС‡Р°СЃС‚РєР°
+communication               РєРѕРјРјСѓРЅРёРєР°С†РёРё
+condition                   СЃРѕСЃС‚РѕСЏРЅРёРµ
+object_type                 С‚РёРї РѕР±СЉРµРєС‚Р°
+landSpace                   РїРѕР»С‰Р°РґСЊ СѓС‡Р°СЃС‚РєР°
+heating                     РѕС‚РѕРїР»РµРЅРёРµ
+bathroom_type               С‚РёРї СЃР°РЅСѓР·Р»Р°
+commercial_type             С‚РёРї РєРѕРјРјРµСЂС‡РµСЃРєРѕР№
+garage_type                 С‚РёРї РіР°СЂР°Р¶Р°
+cad_passport                РєР°РґР°СЃС‚СЂРѕРІС‹Р№ РїР°СЃРїРѕСЂС‚
+dacha_type                  С‚РёРї РґР°С‡Рё
+apartment_sale_object_type  С‚РёРї РєРІР°СЂС‚РёСЂС‹
+dacha_object_type           С‚РёРї СЃС‚СЂРѕРµРЅРёСЏ РґР°С‡Рё
+land_object_type            С‚РёРї Р·РµРјРµР»СЊРЅРѕРіРѕ СѓС‡Р°СЃС‚РєР°
+purpose                     РЅР°Р·РЅР°С‡РµРЅРёРµ
+distance_to_city            СЂР°СЃСЃС‚РѕСЏРЅРёРµ РґРѕ РіРѕСЂРѕРґР°
+coop_name                   РЅР°Р·РІР°РЅРёРµ РєРѕРѕРїРµСЂР°С‚РёРІР°
+description                 РѕРїРёСЃР°РЅРёРµ
+price                       С†РµРЅР° СЃ РґРѕРЅРѕСЂР°
+name                        РёРјСЏ РєРѕРЅС‚Р°РєС‚Р°
+date_grabbed                РґР°С‚Р° РІС…РѕРґР° РІ СЃРёСЃС‚РµРјСѓ
+source                      РёСЃС‚РѕС‡РЅРёРє
+priceInt                    Р°РєС‚СѓР°Р»СЊРЅР°СЏ С†РµРЅР°
+currency                    РІР°Р»СЋС‚Р°
+images                      РёР·РѕР±СЂР°Р¶РµРЅРёСЏ
+sub_district                РјРёРєСЂРѕСЂР°Р№РѕРЅ
+district                    СЂР°Р№РѕРЅ
+street                      СѓР»РёС†Р°
+cat_name                    РёРјСЏ РєР°С‚РµРіРѕСЂРёРё
