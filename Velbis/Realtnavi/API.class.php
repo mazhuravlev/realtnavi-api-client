@@ -71,7 +71,7 @@ class API
         if(is_null($key)) {
             return $info;
         } else {
-            if(array_key_exists($key, $info)) {
+            if(is_array($info) and array_key_exists($key, $info)) {
                 return $info[$key];
             } else {
                 throw new ErrorException("No '$key' key in response");
