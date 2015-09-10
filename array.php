@@ -16,7 +16,7 @@ require_once "config/config.php";
 
 $api = API::connect(API_USERNAME, API_PASSWORD, API_URL);
 $params = array(
-    API::PARAM_AREA => 'Симферополь',
+    API::PARAM_AREA => 'Севастополь',
     API::PARAM_TIME => time() - 86400,
     API::PARAM_CATEGORIES => Helpers::prepareArray(
         [
